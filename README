@@ -2,11 +2,11 @@ edroads
 =======
 edroads is a tool for processing Edinburgh Council road data.
 
-The list of public roads is available from:
+The list of public roads is available as a set of PDFs from:
 
-    http://www.edinburgh.gov.uk/internet/transport/roads/road_building_public_roads_and_highways/CEC_list_of_public_roads
+    http://bit.ly/edpublicroads
 
-These .pdfs can be converted to XML-based Excel worksheets using:
+These PDFs can be converted to XML-based Excel worksheets using:
 
     http://www.pdftoexcelonline.com/
 
