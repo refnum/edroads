@@ -1,7 +1,7 @@
 #!/usr/bin/ruby -w
 #============================================================================
 #	NAME:
-#		edroads.pl
+#		edroads.rb
 #
 #	DESCRIPTION:
 #		Edinburgh Council road processor.
